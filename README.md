@@ -1,2 +1,2 @@
 # udemy-maven
- Curse of Maven in Udemy - 2020
+ Course of Maven in Udemy - 2020
